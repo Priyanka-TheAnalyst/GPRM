@@ -1,4 +1,4 @@
-# GPRM
+# KNOW MORE ABOUT ME !!
 
 # 💫 About Me:
 🔭 I’m currently working on exciting coding projects that explore the intersection of Machine Learning and Deep Learning.<br>👯 I’m looking to collaborate on open-source projects that drive innovation in machine learning and natural language processing.<br>🤝 I’m looking for help with optimizing database performance and tuning queries for efficiency.<br>🌱 I’m currently learning  about the latest advancements in neural network architectures and fine-tuning models for specific NLP tasks.<br>💬 Ask me about  related to machine learning, Power Bi, or data science—I love discussing these topics!<br>
